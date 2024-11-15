@@ -2,6 +2,8 @@
 
 This template shows you how to use Steel with Playwright in Python to run browser automations in the cloud. It includes session management, error handling, and a basic example you can customize.
 
+[![Open Replit Template](https://replit.com/badge/github/@steel-dev/steel-playwright-python-starter)](https://replit.com/@steel-dev/steel-playwright-python-starter?v=1)
+
 ## Installation
 
 Clone the repository and install dependencies:
