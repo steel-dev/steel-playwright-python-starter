@@ -1,4 +1,4 @@
-# Steel + Playwright Starter (Python)
+# Steel + Playwright for Python Starter
 
 This template shows you how to use Steel with Playwright in Python to run browser automations in the cloud. It includes session management, error handling, and a basic example you can customize.
 
@@ -7,8 +7,8 @@ This template shows you how to use Steel with Playwright in Python to run browse
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/steel-dev/steel-playwright-starter-python
-cd steel-playwright-starter-python
+git clone https://github.com/steel-dev/steel-playwright-python-starter
+cd steel-playwright-python-starter
 
 # Create and activate virtual environment (recommended)
 python -m venv venv
